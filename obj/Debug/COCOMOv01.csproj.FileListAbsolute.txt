@@ -1,0 +1,21 @@
+E:\Code\COCOMOv01\bin\Debug\COCOMOv01.exe.config
+E:\Code\COCOMOv01\bin\Debug\COCOMOv01.exe
+E:\Code\COCOMOv01\bin\Debug\COCOMOv01.pdb
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.csproj.AssemblyReference.cache
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.Basic.resources
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.Form1.resources
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.Properties.Resources.resources
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.csproj.GenerateResource.cache
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.csproj.CoreCompileInputs.cache
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.exe
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.pdb
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.Prom.resources
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.COCOMO2Det.resources
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.COCOMO2Predvarit.resources
+E:\Code\COCOMOv01\bin\Debug\Справка.pdf
+E:\Code\COCOMOv01\bin\Debug\Лицензионное соглашение.pdf
+E:\Code\COCOMOv01\bin\Debug\Об Авторе.pdf
+E:\Code\COCOMOv01\bin\Debug\COCOMOv01.exe.manifest
+E:\Code\COCOMOv01\bin\Debug\COCOMOv01.application
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.exe.manifest
+E:\Code\COCOMOv01\obj\Debug\COCOMOv01.application
